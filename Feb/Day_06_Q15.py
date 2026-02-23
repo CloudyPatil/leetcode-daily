@@ -1,4 +1,4 @@
-# 15. 3Sum
+# 15. 3Sum      
 
 class Solution(object):
     def threeSum(self, nums):
@@ -34,3 +34,6 @@ class Solution(object):
                     right -= 1
 
         return result       
+    
+
+    #Revised version with better readability
