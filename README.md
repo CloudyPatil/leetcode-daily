@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/CloudyPatil/leetcode-daily/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
