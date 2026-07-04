@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CloudyPatil/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CloudyPatil/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CloudyPatil/leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/CloudyPatil/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/CloudyPatil/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,10 +61,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CloudyPatil/leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/CloudyPatil/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/CloudyPatil/leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/1991-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CloudyPatil/leetcode-daily/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/CloudyPatil/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
