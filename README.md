@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CloudyPatil/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CloudyPatil/leetcode-daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CloudyPatil/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CloudyPatil/leetcode-daily/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/CloudyPatil/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CloudyPatil/leetcode-daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CloudyPatil/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CloudyPatil/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/CloudyPatil/leetcode-daily/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/CloudyPatil/leetcode-daily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
