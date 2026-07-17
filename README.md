@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CloudyPatil/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CloudyPatil/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CloudyPatil/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CloudyPatil/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CloudyPatil/leetcode-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CloudyPatil/leetcode-daily/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CloudyPatil/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CloudyPatil/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CloudyPatil/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CloudyPatil/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CloudyPatil/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
