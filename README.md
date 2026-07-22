@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CloudyPatil/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CloudyPatil/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/CloudyPatil/leetcode-daily/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CloudyPatil/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CloudyPatil/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/CloudyPatil/leetcode-daily/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/CloudyPatil/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CloudyPatil/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/CloudyPatil/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/CloudyPatil/leetcode-daily/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -131,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CloudyPatil/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CloudyPatil/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/CloudyPatil/leetcode-daily/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
