@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CloudyPatil/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/CloudyPatil/leetcode-daily/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/CloudyPatil/leetcode-daily/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/CloudyPatil/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/CloudyPatil/leetcode-daily/tree/master/1991-find-the-middle-index-in-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/CloudyPatil/leetcode-daily/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/CloudyPatil/leetcode-daily/tree/master/2769-find-the-maximum-achievable-number) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CloudyPatil/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CloudyPatil/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/CloudyPatil/leetcode-daily/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CloudyPatil/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CloudyPatil/leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CloudyPatil/leetcode-daily/tree/master/0567-permutation-in-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CloudyPatil/leetcode-daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
